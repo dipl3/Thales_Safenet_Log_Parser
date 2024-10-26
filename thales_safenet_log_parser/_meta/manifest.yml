@@ -1,0 +1,8 @@
+---
+uuid: REDACTED
+name: Thales SafeNet Trusted Access
+slug: thales_safenet
+description: >-
+  Thales SSO
+data_sources:
+  Authentication logs: Audit logs are generated for login events,logout events, as well as other user actions that can impact the security posture of the product.
